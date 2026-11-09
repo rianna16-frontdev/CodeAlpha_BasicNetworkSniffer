@@ -38,3 +38,6 @@ sudo python3 sniffer.py -c 100 -w capture.pcap
 
 ## Ethical use
 Only capture traffic on networks you own or have written permission to monitor.
+   ## Sample Output
+   ![ICMPv6 ping capture](output.png)
+   ![General capture](output1.png)
